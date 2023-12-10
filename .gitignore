@@ -131,9 +131,13 @@ ENV/
 env.bak/
 venv.bak/
 <<<<<<< HEAD
+<<<<<<< HEAD
 openai-env/
 =======
 >>>>>>> a10e8f2 (first commit)
+=======
+openai-env/
+>>>>>>> 630150e (fix: modify requirements.text)
 
 # Spyder project settings
 .spyderproject
