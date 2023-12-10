@@ -25,3 +25,13 @@ pip install -r requirements.txt
 python app.py
 ```
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+## 프로젝트 실행
+
+```bash
+git clone https://github.com/YaeheeChoe/recipetube.git
+
+cd recipetube
+pip install -r requirements.txt
+python app.py
+```
