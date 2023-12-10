@@ -10,4 +10,4 @@ def generate(recipe_name):
 demo = gradio.Interface(fn=generate, inputs="text", outputs="text")
     
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch()
